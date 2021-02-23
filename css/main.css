@@ -1,0 +1,223 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+/* NavBar */
+
+nav.navbar {
+    background: rgba(251, 252, 252, 0.8);
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+
+.navbar-brand a {
+    color: #0088ce;
+    font-family: 'EB Garamond', serif;
+    font-size: x-large;
+}
+
+.navbar-brand span {
+    color: #939598;
+    font-style: italic;
+    font-family: 'EB Garamond', serif;
+    font-size: medium;
+}
+
+.nav-item .btn {
+    color: #939598;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.nav-item .btn:hover {
+    background-color: #ef8354;
+    color: #f2f2f2;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.nav-item .btn:focus {
+    box-shadow: 0 0 0 0.2rem rgba(239, 131, 84, .25);
+}
+
+
+/* Dropdown */
+
+.dropdown .dropdown-menu {
+    min-width: 1rem;
+    max-height: 200px;
+    overflow-y: auto;
+}
+
+html {
+    --scrollbarBG: #CFD8DC;
+    --thumbBG: #90A4AE;
+}
+
+.dropdown-menu::-webkit-scrollbar {
+    width: 11px;
+}
+
+.dropdown-menu {
+    scrollbar-width: thin;
+    scrollbar-color: var(--thumbBG) var(--scrollbarBG);
+}
+
+.dropdown-menu::-webkit-scrollbar-track {
+    background: var(--scrollbarBG);
+}
+
+.dropdown-menu::-webkit-scrollbar-thumb {
+    background-color: var(--thumbBG);
+    border-radius: 6px;
+    border: 3px solid var(--scrollbarBG);
+}
+
+.dropdown-menu .dropdown-item {
+    padding-left: 12px;
+    padding-right: 12px;
+    font-family: 'Overpass', sans-serif;
+    font-weight: 400;
+    font-size: 0.85rem;
+}
+
+.dropdown-menu .dropdown-item:active {
+    background-color: rgba(239, 131, 84, 0.7);
+}
+
+
+/* Legend */
+
+.legend div {
+    height: 20px;
+}
+
+.legend .mb-1 {
+    color: black;
+    font-family: 'Overpass', sans-serif;
+    font-weight: 700;
+}
+
+.legend i {
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin-right: 8px;
+    opacity: 0.7;
+}
+
+.legend span {
+    background: #ef8354;
+    border: 1.5px solid #f2f2f2;
+    border-radius: 50%;
+}
+
+.legend p {
+    margin-block-start: 0;
+    margin-block-end: 0;
+    color: #939598;
+    font-family: 'Overpass', sans-serif;
+    font-weight: 400;
+}
+
+.info {
+    background: rgba(255, 255, 255, 0.8);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+}
+
+
+/* Popup */
+
+#popupTemplate {
+    margin-bottom: 20px;
+    margin-left: 20px;
+    padding: 0;
+    display: none;
+    width: max-content;
+}
+
+.card-header {
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+
+#textTitle {
+    font-family: 'Overpass', sans-serif;
+    font-weight: 700;
+}
+
+#popupTable {
+    padding-top: 12px;
+    padding-bottom: 4px;
+    padding-left: 12px;
+}
+
+#popupBody {
+    font-family: 'Overpass', sans-serif;
+    font-weight: 400;
+    font-size: 0.85rem;
+}
+
+.card-header>.row,
+#popupTable>.row {
+    padding-left: 6px;
+    padding-right: 6px;
+}
+
+.card-header>.row>.col-md-auto,
+#popupTable .col-md-auto {
+    padding: 0px;
+}
+
+
+/* About Page */
+
+#aboutModal .modal-header {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    background-color: rgba(0, 136, 206, 0.8);
+}
+
+#aboutModal .modal-title {
+    color: #f2f2f2;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+#aboutModal span {
+    color: #f2f2f2;
+}
+
+#aboutModal .modal-body {
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+#aboutModal .modal-body .aboutTitle {
+    font-family: 'Overpass', sans-serif;
+    font-weight: 600;
+    color: black;
+    font-size: 1rem;
+    padding-top: 12px;
+}
+
+#aboutModal .modal-body {
+    padding-top: 0px;
+    font-family: 'Overpass', sans-serif;
+    font-weight: 400;
+    color: #939598;
+    font-size: 0.85rem;
+}
+
+#aboutModal .modal-body a {
+    color: #0088ce;
+}
+
+
+/* PlaceName Panel */
+
+.place {
+    padding: 12px;
+    padding-right: 0px;
+    width: 185px;
+}
