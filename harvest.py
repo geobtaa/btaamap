@@ -17,6 +17,11 @@ Edited on Jan 28 2021
 # pip install mapclassify
 # pip install topojson
 
+
+####### Set file path #######
+
+# ********** Input Files **********
+# Raw data: CSV files
 import os
 import pandas as pd
 import json
@@ -29,12 +34,6 @@ import folium
 import sys
 import mapclassify
 import topojson as tp
-
-
-####### Set file path #######
-
-# ********** Input Files **********
-# Raw data: CSV files
 stategeoportals = os.path.join('data', 'allStates.csv')
 countygeoportals = os.path.join('data', 'allCounties.csv')
 citygeoportals = os.path.join('data', 'allCities.csv')
@@ -229,8 +228,8 @@ df_group['totalRecords'] = df_group['totalRecords'].apply(
 
 ####### Classify the geoportal by total number #######
 
-# You may want to adjust the classification method Quantiles and class number k.
-n5 = mapclassify.Quantiles(df_group.totalRecords, k=5)
+# You may want to adjust the classification method NaturalBreaks and class number k.
+n5 = mapclassify.NaturalBreaks(df_group.totalRecords, k=5)
 countyInterval = list(n5.bins)
 
 
@@ -317,7 +316,7 @@ def create_geojson_features(df):
                 'sourceURL': '|'.join([str(elem) for elem in row['sourceURL']]),
                 'btaaURL': row['btaaURL'],
                 'totalRecords': row['totalRecords'],
-                'Color' : row['Color']
+                'Color': row['Color']
             }
         }
 
@@ -358,12 +357,15 @@ df_clean['totalRecords'] = totalRecords(df_clean)
 check_totalRecords(df_clean)
 
 ####### Group dataframe rows into list by geoportal sites #######
+
+
 def aggregate_to_array(data):
     groupItems = ['Title', 'sourceURL', 'totalRecords']
     for i in range(len(groupItems)):
         data[groupItems[i]] = np.tile(
             [data[groupItems[i]].values], (data.shape[0], 1)).tolist()
     return data
+
 
 # Group by ['City', 'State']
 df_group = df_clean.groupby(['centerX']).apply(
@@ -422,7 +424,7 @@ def create_geojson_features(df):
                 'sourceURL': '|'.join([str(elem) for elem in row['sourceURL']]),
                 'btaaURL': row['btaaURL'],
                 'totalRecords': row['totalRecords'],
-                'Size' : row['Size']
+                'Size': row['Size']
             }
         }
 
