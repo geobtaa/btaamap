@@ -1,23 +1,28 @@
 countyCode,County,State,Title,sourceURL,btaaURL
-01b-18057,Hamilton County,Indiana,Hamilton County GIS Portal Data Downloads,https://gis1.hamiltoncounty.in.gov/portal/home,https://geo.btaa.org/?q=01b-18057
-01b-18163,Vanderburgh County,Indiana,"Evansville, Vanderburgh County Open Data Portal",https://dev-evansvilleapc.opendata.arcgis.com,https://geo.btaa.org/?q=01b-18163
 02b-17001,Adams County,Illinois,"Adams County, Illinois GIS",https://www.adamscountygis.com,https://geo.btaa.org/?q=02b-17001
-02b-17091,Kankakee County,Illinois,Kankakee County GIS,http://www.k3gis.com,https://geo.btaa.org/?q=02b-17091
+02b-17091,Kankakee County,Illinois,Kankakee County GIS,https://www.k3gis.com,https://geo.btaa.org/?q=02b-17091
 02b-17093,Kendall County,Illinois,Kendall County GIS,https://gis.co.kendall.il.us/publicly_available_features.aspx,https://geo.btaa.org/?q=02b-17093
-02b-17113,McLean County,Illinois,McLean County GIS Consortium,http://www.mcgis.org,https://geo.btaa.org/?q=02b-17113
-02b-17113,McLean County,Illinois,McLean County GIS,http://mcggis.maps.arcgis.com/home/index.html,https://geo.btaa.org/?q=02b-17113
+02b-17113,McLean County,Illinois,McLean County GIS Consortium,https://www.mcgis.org,https://geo.btaa.org/?q=02b-17113
+02b-17113,McLean County,Illinois,McLean County GIS,https://mcggis.maps.arcgis.com/home/index.html,https://geo.btaa.org/?q=02b-17113
 02b-17117,Macoupin County,Illinois,Macoupin Data,https://data.macoupincountyil.gov,https://geo.btaa.org/?q=02b-17117
 02b-17125,Mason County,Illinois,"Mason County, Department of Assessment",https://www.masoncountyil.org/assessment.htm,https://geo.btaa.org/?q=02b-17125
 02b-17197,Will County,Illinois,Will County Data,https://www.willcountyillinois.com/County-Offices/Administration/GIS-Division/Data,https://geo.btaa.org/?q=02b-17197
-03b-19029,Cass County,Iowa,Cass County GIS Downloadable Files,http://www.atlanticiowa.com/county/county-departments/gis-coordinator,https://geo.btaa.org/?q=03b-19029
+12b-17031,Cook County,Illinois,Cook Central,https://hub-cookcountyil.opendata.arcgis.com,https://geo.btaa.org/?q=12b-17031
+12b-17031,Cook County,Illinois,Cook County Open Data,https://datacatalog.cookcountyil.gov,https://geo.btaa.org/?q=12b-17031
+12b-17043,DuPage County,Illinois,DuPage County GIS,https://gisdata-dupage.opendata.arcgis.com,https://geo.btaa.org/?q=12b-17043
+12b-17097,Lake County,Illinois,Lake County Illinois Open Data Portal,https://data-lakecountyil.opendata.arcgis.com,https://geo.btaa.org/?q=12b-17097
+12b-17143,Peoria County,Illinois,Peoria County GIS Open Data Portal,https://data-peoriacountygis.opendata.arcgis.com,https://geo.btaa.org/?q=12b-17143
+01b-18057,Hamilton County,Indiana,Hamilton County GIS Portal Data Downloads,https://gis1.hamiltoncounty.in.gov/portal/home,https://geo.btaa.org/?q=01b-18057
+01b-18163,Vanderburgh County,Indiana,"Evansville, Vanderburgh County Open Data Portal",https://dev-evansvilleapc.opendata.arcgis.com,https://geo.btaa.org/?q=01b-18163
+03b-19029,Cass County,Iowa,Cass County GIS Downloadable Files,https://www.atlanticiowa.com/county/county-departments/gis-coordinator,https://geo.btaa.org/?q=03b-19029
 03b-19049,Dallas County,Iowa,Dallas County Data Download,https://www.dallascountyiowa.gov/government/business-and-planning/gis/data-download,https://geo.btaa.org/?q=03b-19049
-03b-19113,Linn County,Iowa,"Linn County, Iowa Open Data Portal",http://opendata-linncounty-gis.opendata.arcgis.com,https://geo.btaa.org/?q=03b-19113
+03b-19113,Linn County,Iowa,"Linn County, Iowa Open Data Portal",https://opendata-linncounty-gis.opendata.arcgis.com,https://geo.btaa.org/?q=03b-19113
 03b-19155,Pottawattamie County,Iowa,Pottawattamie County GIS Hub,https://gis.pottcounty-ia.gov/portal/apps/sites/#/hub,https://geo.btaa.org/?q=03b-19155
 03b-19163,Scott County,Iowa,Scott County GIS Data,https://www.scottcountyiowa.com/it/data,https://geo.btaa.org/?q=03b-19163
 04b-24003,Anne Arundel County,Maryland,Anne Arundel County GIS Data,https://www.aacounty.org/county-maps/index.html,https://geo.btaa.org/?q=04b-24003
 04b-24005,Baltimore County,Maryland,Baltimore County Open Data Portal,https://bcstat-bc-gis.hub.arcgis.com/pages/gisopen-data,https://geo.btaa.org/?q=04b-24005
 04b-24009,Calvert County,Maryland,Calvert County Open GIS Data Portal,https://data-calvertgis.opendata.arcgis.com,https://geo.btaa.org/?q=04b-24009
-04b-24009,Calvert County,Maryland,"Calvert County GIS, Historic Maps, Topos",http://www.co.cal.md.us/index.aspx?NID=1534,https://geo.btaa.org/?q=04b-24009
+04b-24009,Calvert County,Maryland,"Calvert County GIS, Historic Maps, Topos",https://www.co.cal.md.us/index.aspx?NID=1534,https://geo.btaa.org/?q=04b-24009
 04b-24013,Carroll County,Maryland,Carroll County GIS Open Data,https://data-carrollco-md.opendata.arcgis.com,https://geo.btaa.org/?q=04b-24013
 04b-24013,Carroll County,Maryland,Carroll County GIS Data Download,https://ccgovernment.carr.org/ccg/gis,https://geo.btaa.org/?q=04b-24013
 04b-24021,Frederick County,Maryland,Frederick County Open Data,https://gis-fcgmd.opendata.arcgis.com,https://geo.btaa.org/?q=04b-24021
@@ -25,145 +30,36 @@ countyCode,County,State,Title,sourceURL,btaaURL
 04b-24027,Howard County,Maryland,Howard County GIS Data Download,https://data.howardcountymd.gov,https://geo.btaa.org/?q=04b-24027
 04b-24031,Montgomery County,Maryland,Montgomery County GIS Open Data,https://data2018-mcgov-gis.opendata.arcgis.com,https://geo.btaa.org/?q=04b-24031
 04b-24033,Prince George's County,Maryland,Prince George's County Open Data Portal,https://data.princegeorgescountymd.gov,https://geo.btaa.org/?q=04b-24033
-04b-24035,Queen Anne's County,Maryland,"GIS Data Downloads for Queen Anne's County, Maryland",http://www.qac.org/912/GIS-Data-Download,https://geo.btaa.org/?q=04b-24035
+04b-24035,Queen Anne's County,Maryland,"GIS Data Downloads for Queen Anne's County, Maryland",https://www.qac.org/912/GIS-Data-Download,https://geo.btaa.org/?q=04b-24035
 04b-24037,St Mary's County,Maryland,St Mary's County GIS Downloadable Layers,https://www.stmarysmd.com/gis,https://geo.btaa.org/?q=04b-24037
-05b-27003,Anoka County,Minnesota,Anoka County GIS Data Downloads,https://www.anokacounty.us/1990/Data-Downloads,https://geo.btaa.org/?q=05b-27003
-05b-27005,Becker County,Minnesota,Becker County GIS Data Downloads,https://www.co.becker.mn.us/online_services/GIS_data.aspx,https://geo.btaa.org/?q=05b-27005
-05b-27009,Benton County,Minnesota,Benton County GIS Data Downloads,https://www.co.benton.mn.us/274/GIS-Mapping,https://geo.btaa.org/?q=05b-27009
-05b-27011,Big Stone County,Minnesota,Big Stone County Open Data,https://data-bigstonecounty.opendata.arcgis.com,https://geo.btaa.org/?q=05b-27011
-05b-27017,Carlton County,Minnesota,Carlton County Open Data,https://data-carltoncounty.opendata.arcgis.com,https://geo.btaa.org/?q=05b-27017
-05b-27019,Carver County,Minnesota,Carver County GIS Data,http://data-carver.opendata.arcgis.com,https://geo.btaa.org/?q=05b-27019
-05b-27025,Chisago County,Minnesota,Chisago County GIS Data Downloads,https://chisagocounty.us/427/Geographic-Information-Systems-GIS,https://geo.btaa.org/?q=05b-27025
-05b-27027,Clay County,Minnesota,Clay County Open Data,https://data-claycountymn.opendata.arcgis.com,https://geo.btaa.org/?q=05b-27027
-05b-27029,Clearwater County,Minnesota,Clearwater County GIS Data Downloads,https://www.co.clearwater.mn.us/index.asp?Type=B_LIST&SEC=%7BC3EA334C-2D16-4252-B563-7908C6E147D2%7D,https://geo.btaa.org/?q=05b-27029
-05b-27037,Dakota County,Minnesota,Dakota County: Minnesota Geospatial Commons,https://gisdata.mn.gov/organization/us-mn-co-dakota,https://geo.btaa.org/?q=05b-27037
-05b-27041,Douglas County,Minnesota,Douglas County Public Works Open Data,https://data-dcpw.opendata.arcgis.com/datasets/parcels,https://geo.btaa.org/?q=05b-27041
-05b-27043,Faribault County,Minnesota,Faribault County: Minnesota Geospatial Commons,https://gisdata.mn.gov/organization/us-mn-co-faribault,https://geo.btaa.org/?q=05b-27043
-05b-27053,Hennepin County,Minnesota,Hennepin County GIS Data,http://gis-hennepin.opendata.arcgis.com,https://geo.btaa.org/?q=05b-27053
-05b-27057,Hubbard County,Minnesota,Hubbard County Open Geospatial Data,https://getdata-hubbardcounty.opendata.arcgis.com,https://geo.btaa.org/?q=05b-27057
-05b-27059,Isanti County,Minnesota,Isanti County GIS Data,https://www.co.isanti.mn.us/175/Geographic-Information-Systems-GIS,https://geo.btaa.org/?q=05b-27059
-05b-27061,Itasca County,Minnesota,Itasca County: Minnesota Geospatial Commons,https://gisdata.mn.gov/organization/us-mn-co-itasca,https://geo.btaa.org/?q=05b-27061
-05b-27075,Lake County,Minnesota,Lake County: Minnesota Geospatial Commons,https://gisdata.mn.gov/organization/us-mn-co-lake,https://geo.btaa.org/?q=05b-27075
-05b-27085,McLeod County,Minnesota,McLeod County GIS Data Downloads,https://www.co.mcleod.mn.us/gis_(mapping_and_surveying)/gis_data.php,https://geo.btaa.org/?q=05b-27085
-05b-27093,Meeker County,Minnesota,Meeker County: Minnesota Geospatial Commons,https://gisdata.mn.gov/organization/us-mn-co-meeker,https://geo.btaa.org/?q=05b-27093
-05b-27111,Otter Tail County,Minnesota,Otter Tail County GIS Data Downloads,https://ottertailcountymn.us/content-page/gis-shapefile-downloads,https://geo.btaa.org/?q=05b-27111
-05b-27119,Polk County,Minnesota,Polk County GIS Open Data,https://polkdata-pcg.opendata.arcgis.com,https://geo.btaa.org/?q=05b-27119
-05b-27121,Pope County,Minnesota,Pope County Open Data,https://data-popecounty.opendata.arcgis.com,https://geo.btaa.org/?q=05b-27121
-05b-27123,Ramsey County,Minnesota,Ramsey County Open Data,https://data-ramseygis.opendata.arcgis.com,https://geo.btaa.org/?q=05b-27123
-05b-27131,Rice County,Minnesota,Rice County: Minnesota Geospatial Commons,https://gisdata.mn.gov/organization/us-mn-co-rice,https://geo.btaa.org/?q=05b-27131
-05b-27137,Saint Louis County,Minnesota,Saint Louis County GIS & Mapping,https://stlouiscountymndata-slcgis.opendata.arcgis.com,https://geo.btaa.org/?q=05b-27137
-05b-27139,Scott County,Minnesota,Scott County Open Data,https://opendata.gis.co.scott.mn.us,https://geo.btaa.org/?q=05b-27139
-05b-27141,Sherburne County,Minnesota,Sherburne County Open Data,https://data-sherburnegis.opendata.arcgis.com,https://geo.btaa.org/?q=05b-27141
-05b-27143,Sibley County,Minnesota,Sibley County ArcGIS Online,https://sibleycounty.maps.arcgis.com/home/index.html,https://geo.btaa.org/?q=05b-27143
-05b-27145,Stearns County,Minnesota,Stearns County GIS Data for Download,https://co.stearns.mn.us/PropertyRoads/GISDataforDownload,https://geo.btaa.org/?q=05b-27145
-05b-27147,Steele County,Minnesota,Steele County: Minnesota Geospatial Commons,https://gisdata.mn.gov/organization/us-mn-co-steele,https://geo.btaa.org/?q=05b-27147
-05b-27161,Waseca County,Minnesota,Waseca County: Minnesota Geospatial Commons,https://gisdata.mn.gov/organization/us-mn-co-waseca,https://geo.btaa.org/?q=05b-27161
-05b-27163,Washington County,Minnesota,Washington County Open Data,https://data-wcmn.opendata.arcgis.com,https://geo.btaa.org/?q=05b-27163
-05b-27167,Wilkin County,Minnesota,"Wilkin County, Minnesota Open Data",https://share-wilkinco.opendata.arcgis.com,https://geo.btaa.org/?q=05b-27167
-06b-26005,Allegan County,Michigan,Allegan County GIS Data Library,http://cms.allegancounty.org/services/GIS/SitePages/Home.aspx,https://geo.btaa.org/?q=06b-26005
-06b-26125,Oakland County,Michigan,"Oakland County, MI Open data",http://accessoakland.oakgov.com,https://geo.btaa.org/?q=06b-26125
+06b-26005,Allegan County,Michigan,Allegan County GIS Data Library,https://cms.allegancounty.org/services/GIS/SitePages/Home.aspx,https://geo.btaa.org/?q=06b-26005
+06b-26125,Oakland County,Michigan,"Oakland County, MI Open data",https://accessoakland.oakgov.com,https://geo.btaa.org/?q=06b-26125
 07b-26161,Washtenaw County,Michigan,"Washtenaw County, Michigan Open Data",https://data-washtenaw.opendata.arcgis.com,https://geo.btaa.org/?q=07b-26161
-08b-42003,Allegheny County,Pennsylvania,Allegheny County GIS Open Data,https://openac-alcogis.opendata.arcgis.com,https://geo.btaa.org/?q=08b-42003
-08b-42027,Centre County,Pennsylvania,Centre County Open Data,http://gisdata-centrecountygov.opendata.arcgis.com,https://geo.btaa.org/?q=08b-42027
-08b-42029,Chester County,Pennsylvania,Chester County GIS Data,https://data1-chesco.opendata.arcgis.com,https://geo.btaa.org/?q=08b-42029
-08b-42039,Crawford County,Pennsylvania,Crawford County Open Data,https://share-open-data-crawfordcountypa.opendata.arcgis.com,https://geo.btaa.org/?q=08b-42039
-08b-42043,Dauphin County,Pennsylvania,Dauphin County GIS Data Portal,https://data-dauphinco.opendata.arcgis.com,https://geo.btaa.org/?q=08b-42043
-08b-42091,Montgomery County,Pennsylvania,Montgomery County Open Data,https://data-montcopa.opendata.arcgis.com,https://geo.btaa.org/?q=08b-42091
-08b-42133,York County,Pennsylvania,"York County, PA GIS Open Data Portal",https://data-yorkcountypa.opendata.arcgis.com,https://geo.btaa.org/?q=08b-42133
-10b-55001,Adams County,Wisconsin,Adams County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Adams+County,https://geo.btaa.org/?q=10b-55001
-10b-55003,Ashland County,Wisconsin,Ashland County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Ashland+County,https://geo.btaa.org/?q=10b-55003
-10b-55005,Barron County,Wisconsin,Barron County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Barron+County,https://geo.btaa.org/?q=10b-55005
-10b-55007,Bayfield County,Wisconsin,Bayfield County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Bayfield+County,https://geo.btaa.org/?q=10b-55007
-10b-55009,Brown County,Wisconsin,Brown County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Brown+County,https://geo.btaa.org/?q=10b-55009
-10b-55011,Buffalo County,Wisconsin,Buffalo County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Buffalo+County,https://geo.btaa.org/?q=10b-55011
-10b-55013,Burnett County,Wisconsin,Burnett County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Burnett+County,https://geo.btaa.org/?q=10b-55013
-10b-55015,Calumet County,Wisconsin,Calumet County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Calumet+County,https://geo.btaa.org/?q=10b-55015
-10b-55017,Chippewa County,Wisconsin,Chippewa County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Chippewa+County,https://geo.btaa.org/?q=10b-55017
-10b-55019,Clark County,Wisconsin,Clark County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Clark+County,https://geo.btaa.org/?q=10b-55019
-10b-55021,Columbia County,Wisconsin,Columbia County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Columbia+County,https://geo.btaa.org/?q=10b-55021
-10b-55023,Crawford County,Wisconsin,Crawford County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Crawford+County,https://geo.btaa.org/?q=10b-55023
-10b-55025,Dane County,Wisconsin,Dane County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Dane+County,https://geo.btaa.org/?q=10b-55025
-10b-55027,Dodge County,Wisconsin,Dodge County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Dodge+County,https://geo.btaa.org/?q=10b-55027
-10b-55029,Door County,Wisconsin,Door County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Door+County,https://geo.btaa.org/?q=10b-55029
-10b-55031,Douglas County,Wisconsin,Douglas County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Douglas+County,https://geo.btaa.org/?q=10b-55031
-10b-55033,Dunn County,Wisconsin,Dunn County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Dunn+County,https://geo.btaa.org/?q=10b-55033
-10b-55035,Eau Claire County,Wisconsin,Eau Claire County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Eau+Claire+County,https://geo.btaa.org/?q=10b-55035
-10b-55037,Florence County,Wisconsin,Florence County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Florence+County,https://geo.btaa.org/?q=10b-55037
-10b-55039,Fond du Lac County,Wisconsin,Fond du Lac County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Fond+du+Lac+County,https://geo.btaa.org/?q=10b-55039
-10b-55041,Forest County,Wisconsin,Forest County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Forest+County,https://geo.btaa.org/?q=10b-55041
-10b-55043,Grant County,Wisconsin,Grant County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Grant+County,https://geo.btaa.org/?q=10b-55043
-10b-55045,Green County,Wisconsin,Green County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Green+County,https://geo.btaa.org/?q=10b-55045
-10b-55047,Green Lake County,Wisconsin,Green Lake County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Green+Lake+County,https://geo.btaa.org/?q=10b-55047
-10b-55049,Iowa County,Wisconsin,Iowa County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Iowa+County,https://geo.btaa.org/?q=10b-55049
-10b-55051,Iron County,Wisconsin,Iron County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Iron+County,https://geo.btaa.org/?q=10b-55051
-10b-55053,Jackson County,Wisconsin,Jackson County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Jackson+County,https://geo.btaa.org/?q=10b-55053
-10b-55055,Jefferson County,Wisconsin,Jefferson County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Jefferson+County,https://geo.btaa.org/?q=10b-55055
-10b-55057,Juneau County,Wisconsin,Juneau County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Juneau+County,https://geo.btaa.org/?q=10b-55057
-10b-55059,Kenosha County,Wisconsin,Kenosha County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Kenosha+County,https://geo.btaa.org/?q=10b-55059
-10b-55061,Kewaunee County,Wisconsin,Kewaunee County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Kewaunee+County,https://geo.btaa.org/?q=10b-55061
-10b-55063,La Crosse County,Wisconsin,La Crosse County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=La+Crosse+County,https://geo.btaa.org/?q=10b-55063
-10b-55065,Lafayette County,Wisconsin,Lafayette County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Lafayette+County,https://geo.btaa.org/?q=10b-55065
-10b-55067,Langlade County,Wisconsin,Langlade County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Langlade+County,https://geo.btaa.org/?q=10b-55067
-10b-55069,Lincoln County,Wisconsin,Lincoln County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Lincoln+County,https://geo.btaa.org/?q=10b-55069
-10b-55071,Manitowoc County,Wisconsin,Manitowoc County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Manitowoc+County,https://geo.btaa.org/?q=10b-55071
-10b-55073,Marathon County,Wisconsin,Marathon County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Marathon+County,https://geo.btaa.org/?q=10b-55073
-10b-55075,Marinette County,Wisconsin,Marinette County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Marinette+County,https://geo.btaa.org/?q=10b-55075
-10b-55077,Marquette County,Wisconsin,Marquette County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Marquette+County,https://geo.btaa.org/?q=10b-55077
-10b-55078,Menominee County,Wisconsin,Menominee County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Menominee+County,https://geo.btaa.org/?q=10b-55078
-10b-55079,Milwaukee County,Wisconsin,Milwaukee County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Milwaukee+County,https://geo.btaa.org/?q=10b-55079
-10b-55081,Monroe County,Wisconsin,Monroe County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Monroe+County,https://geo.btaa.org/?q=10b-55081
-10b-55083,Oconto County,Wisconsin,Oconto County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Oconto+County,https://geo.btaa.org/?q=10b-55083
-10b-55085,Oneida County,Wisconsin,Oneida County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Oneida+County,https://geo.btaa.org/?q=10b-55085
-10b-55087,Outagamie County,Wisconsin,Outagamie County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Outagamie+County,https://geo.btaa.org/?q=10b-55087
-10b-55089,Ozaukee County,Wisconsin,Ozaukee County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Ozaukee+County,https://geo.btaa.org/?q=10b-55089
-10b-55091,Pepin County,Wisconsin,Pepin County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Pepin+County,https://geo.btaa.org/?q=10b-55091
-10b-55093,Pierce County,Wisconsin,Pierce County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Pierce+County,https://geo.btaa.org/?q=10b-55093
-10b-55095,Polk County,Wisconsin,Polk County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Polk+County,https://geo.btaa.org/?q=10b-55095
-10b-55097,Portage County,Wisconsin,Portage County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Portage+County,https://geo.btaa.org/?q=10b-55097
-10b-55099,Price County,Wisconsin,Price County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Price+County,https://geo.btaa.org/?q=10b-55099
-10b-55101,Racine County,Wisconsin,Racine County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Racine+County,https://geo.btaa.org/?q=10b-55101
-10b-55103,Richland County,Wisconsin,Richland County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Richland+County,https://geo.btaa.org/?q=10b-55103
-10b-55105,Rock County,Wisconsin,Rock County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Rock+County,https://geo.btaa.org/?q=10b-55105
-10b-55107,Rusk County,Wisconsin,Rusk County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Rusk+County,https://geo.btaa.org/?q=10b-55107
-10b-55109,St. Croix County,Wisconsin,Sheboygan County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=St+Croix+County,https://geo.btaa.org/?q=10b-55109
-10b-55111,Sauk County,Wisconsin,St Croix County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Sauk+County,https://geo.btaa.org/?q=10b-55111
-10b-55113,Sawyer County,Wisconsin,Sauk County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Sawyer+County,https://geo.btaa.org/?q=10b-55113
-10b-55115,Shawano County,Wisconsin,Sawyer County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Shawano+County,https://geo.btaa.org/?q=10b-55115
-10b-55117,Sheboygan County,Wisconsin,Shawano County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Sheboygan+County,https://geo.btaa.org/?q=10b-55117
-10b-55119,Taylor County,Wisconsin,Taylor County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Taylor+County,https://geo.btaa.org/?q=10b-55119
-10b-55121,Trempealeau County,Wisconsin,Trempealeau County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Trempealeau+County,https://geo.btaa.org/?q=10b-55121
-10b-55123,Vernon County,Wisconsin,Vernon County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Vernon+County,https://geo.btaa.org/?q=10b-55123
-10b-55125,Vilas County,Wisconsin,Vilas County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Vilas+County,https://geo.btaa.org/?q=10b-55125
-10b-55127,Walworth County,Wisconsin,Walworth County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Walworth+County,https://geo.btaa.org/?q=10b-55127
-10b-55129,Washburn County,Wisconsin,Washburn County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Washburn+County,https://geo.btaa.org/?q=10b-55129
-10b-55131,Washington County,Wisconsin,Washington County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Washington+County,https://geo.btaa.org/?q=10b-55131
-10b-55133,Waukesha County,Wisconsin,Waukesha County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Waukesha+County,https://geo.btaa.org/?q=10b-55133
-10b-55135,Waupaca County,Wisconsin,Waupaca County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Waupaca+County,https://geo.btaa.org/?q=10b-55135
-10b-55137,Waushara County,Wisconsin,Waushara County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Waushara+County,https://geo.btaa.org/?q=10b-55137
-10b-55139,Winnebago County,Wisconsin,Winnebago County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Winnebago+County,https://geo.btaa.org/?q=10b-55139
-10b-55141,Wood County,Wisconsin,Wood County GIS Data,https://geodata.wisc.edu/?&search_field=all_fields&q=Wood+County,https://geo.btaa.org/?q=10b-55141
-11b-39003,Allen County,Ohio,Allen County GIS Data Download Page,http://gis.allencountyohio.com/GIS/downloads.html,https://geo.btaa.org/?q=11b-39003
-11b-39007,Ashtabula County,Ohio,"ArcGIS REST Services Directory for Ashtabula County, Ohio",http://gis2.ashtabulacounty.us/arcgis/rest/services,https://geo.btaa.org/?q=11b-39007
+13b-31153,Sarpy County,Nebraska,Sarpy County GIS Portal,https://gis.sarpy.com/,https://geo.btaa.org/?q=13b-31153
+13b-31055,Douglas County,Nebraska,Omaha/Douglas County GIS Open Data Portal,https://data-dogis.opendata.arcgis.com/,https://geo.btaa.org/?q=13b-31055
+13b-31079,Hall County,Nebraska,Hall County GeoHub,https://data-hcnegis.opendata.arcgis.com/,https://geo.btaa.org/?q=13b-31079
+11b-39003,Allen County,Ohio,Allen County GIS Data Download Page,https://gis.allencountyohio.com/GIS/downloads.html,https://geo.btaa.org/?q=11b-39003
+11b-39007,Ashtabula County,Ohio,"ArcGIS REST Services Directory for Ashtabula County, Ohio",https://gis2.ashtabulacounty.us/arcgis/rest/services,https://geo.btaa.org/?q=11b-39007
 11b-39009,Athens County,Ohio,Athens County GIS Data,https://data-athgis.opendata.arcgis.com,https://geo.btaa.org/?q=11b-39009
-11b-39011,Auglaize County,Ohio,"Auglaize County, Ohio GIS Open Data Downloads",http://augcogis.maps.arcgis.com/apps/PublicGallery/index.html?appid=8c6858fbb82042a6b72aa3b059433cdb,https://geo.btaa.org/?q=11b-39011
-11b-39013,Belmont County,Ohio,"Data/Downloads for Belmont County, Ohio",http://www.belcogis.com/DataDownloads.htm,https://geo.btaa.org/?q=11b-39013
-11b-39015,Brown County,Ohio,"Spatial Data for Brown County, Ohio",http://gis.browncountyengineer.org/gisweb/pages/downloads/BROWN-CO-DOWNLOADS.ASP,https://geo.btaa.org/?q=11b-39015
+11b-39011,Auglaize County,Ohio,"Auglaize County, Ohio GIS Open Data Downloads",https://augcogis.maps.arcgis.com/apps/PublicGallery/index.html?appid=8c6858fbb82042a6b72aa3b059433cdb,https://geo.btaa.org/?q=11b-39011
+11b-39013,Belmont County,Ohio,"Data/Downloads for Belmont County, Ohio",https://www.belcogis.com/DataDownloads.htm,https://geo.btaa.org/?q=11b-39013
+11b-39015,Brown County,Ohio,"Spatial Data for Brown County, Ohio",https://gis.browncountyengineer.org/gisweb/pages/downloads/BROWN-CO-DOWNLOADS.ASP,https://geo.btaa.org/?q=11b-39015
 11b-39017,Butler County,Ohio,"ArcGIS REST Services Directory for Butler County Auditor, Ohio",https://maps.butlercountyauditor.org/arcgis/rest/services,https://geo.btaa.org/?q=11b-39017
 11b-39021,Champaign County,Ohio,"GIS Data Downloads for Champaign County, Ohio",https://downloads.ddti.net/champaignoh,https://geo.btaa.org/?q=11b-39021
-11b-39025,Clermont County,Ohio,"Download GIS Data for Clermont County, Ohio",http://gis.clermontcountyohio.gov/download-gis-data,https://geo.btaa.org/?q=11b-39025
-11b-39027,Clinton County,Ohio,"Clinton County, Ohio, Geographic Information Systems",http://www.clintoncountyohgis.org/index.htm,https://geo.btaa.org/?q=11b-39027
-11b-39031,Coshocton County,Ohio,"Data Downloads for Coshocton County, Ohio",http://www.coshoctoncounty.net/taxmap/gis-downloads,https://geo.btaa.org/?q=11b-39031
+11b-39025,Clermont County,Ohio,"Download GIS Data for Clermont County, Ohio",https://gis.clermontcountyohio.gov/download-gis-data,https://geo.btaa.org/?q=11b-39025
+11b-39027,Clinton County,Ohio,"Clinton County, Ohio, Geographic Information Systems",https://www.clintoncountyohgis.org/index.htm,https://geo.btaa.org/?q=11b-39027
+11b-39031,Coshocton County,Ohio,"Data Downloads for Coshocton County, Ohio",https://www.coshoctoncounty.net/taxmap/gis-downloads,https://geo.btaa.org/?q=11b-39031
 11b-39033,Crawford County,Ohio,"Downloads for Crawford County, Ohio",https://beacon.schneidercorp.com/Application.aspx?AppID=853&LayerID=16691&PageTypeID=16&PageID=7411&Q=291215914,https://geo.btaa.org/?q=11b-39033
 11b-39035,Cuyahoga County,Ohio,Cuyahoga County Open Data,https://data-cuyahoga.opendata.arcgis.com,https://geo.btaa.org/?q=11b-39035
 11b-39039,Defiance County,Ohio,Defiance County GIS,https://www.defiance-county.com/engineer/GIS.htm,https://geo.btaa.org/?q=11b-39039
-11b-39041,Delaware County,Ohio,Delaware County GIS,http://www.delawareswcd.org/Pages/gis.htm,https://geo.btaa.org/?q=11b-39041
+11b-39041,Delaware County,Ohio,Delaware County GIS,https://www.delawareswcd.org/Pages/gis.htm,https://geo.btaa.org/?q=11b-39041
 11b-39043,Erie County,Ohio,"GIS Data Downloads for Erie County, Ohio",https://downloads.ddti.net/erieoh,https://geo.btaa.org/?q=11b-39043
 11b-39045,Fairfield County,Ohio,"GIS Data Downloads for Fairfield County Auditor's Office, Ohio",https://www.co.fairfield.oh.us/gis,https://geo.btaa.org/?q=11b-39045
-11b-39047,Seneca County,Ohio,Seneca County GIS Data,http://downloads.ddti.net/SenecaOH,https://geo.btaa.org/?q=11b-39047
+11b-39047,Seneca County,Ohio,Seneca County GIS Data,https://downloads.ddti.net/SenecaOH,https://geo.btaa.org/?q=11b-39047
 11b-39049,Franklin County,Ohio,"Franklin County Auditor, Ohio Open Data",https://auditor-fca.opendata.arcgis.com,https://geo.btaa.org/?q=11b-39049
 11b-39049,Franklin County,Ohio,"GIS Shapefiles for Franklin County Auditor, Ohio",ftp://apps.franklincountyauditor.com,https://geo.btaa.org/?q=11b-39049
-11b-39051,Fulton County,Ohio,"ArcGIS REST Services Directory for Fulton County Auditor, Ohio",http://gis.fultoncountyoh.com/arcgis/rest/services,https://geo.btaa.org/?q=11b-39051
-11b-39055,Geauga County,Ohio,"GIS Data Downloads for Geauga County Auditor, Ohio",http://www.auditor.co.geauga.oh.us/GIS/Downloads,https://geo.btaa.org/?q=11b-39055
+11b-39051,Fulton County,Ohio,"ArcGIS REST Services Directory for Fulton County Auditor, Ohio",https://gis.fultoncountyoh.com/arcgis/rest/services,https://geo.btaa.org/?q=11b-39051
+11b-39055,Geauga County,Ohio,"GIS Data Downloads for Geauga County Auditor, Ohio",https://www.auditor.co.geauga.oh.us/GIS/Downloads,https://geo.btaa.org/?q=11b-39055
 11b-39057,Greene County,Ohio,"Data for Greene County, Ohio",https://www.co.greene.oh.us/DocumentCenter/Index/445,https://geo.btaa.org/?q=11b-39057
 11b-39063,Hancock County,Ohio,"GIS Data Downloads for Hancock County, Ohio",https://downloads.ddti.net/hancockoh,https://geo.btaa.org/?q=11b-39063
 11b-39069,Henry County,Ohio,"ArcGIS REST Services Directory for Henry County, Ohio",https://services.arcgis.com/osmyvTbXDC07yFxn/ArcGIS/rest/services,https://geo.btaa.org/?q=11b-39069
@@ -178,30 +74,100 @@ countyCode,County,State,Title,sourceURL,btaaURL
 11b-39095,Lucas County,Ohio,"ArcGIS REST Services Directory for Lucas County, Ohio",https://lcapps.co.lucas.oh.us/arcgis/rest/services,https://geo.btaa.org/?q=11b-39095
 11b-39097,Madison County,Ohio,"GIS Data Downloads for Madison County, Ohio",https://downloads.ddti.net/madisonoh,https://geo.btaa.org/?q=11b-39097
 11b-39099,Mahoning County,Ohio,"Public FTP for Mahoning County, Ohio",https://gisapp.mahoningcountyoh.gov/Public_FTP_Folder,https://geo.btaa.org/?q=11b-39099
-11b-39101,Marion County,Ohio,"ArcGIS REST Services Directory for Marion County, Ohio",http://mcoiis.co.marion.oh.us/arcgis/rest/services,https://geo.btaa.org/?q=11b-39101
-11b-39103,Medina County,Ohio,"GIS Data Downloads for Medina County, Ohio",http://www.gisdata.co.medina.oh.us,https://geo.btaa.org/?q=11b-39103
+11b-39101,Marion County,Ohio,"ArcGIS REST Services Directory for Marion County, Ohio",https://mcoiis.co.marion.oh.us/arcgis/rest/services,https://geo.btaa.org/?q=11b-39101
+11b-39103,Medina County,Ohio,"GIS Data Downloads for Medina County, Ohio",https://www.gisdata.co.medina.oh.us,https://geo.btaa.org/?q=11b-39103
 11b-39107,Mercer County,Ohio,"Auditor's Office Downloads for Mercer County, Ohio",https://www.mercercountyohio.org/elected-officials/auditor/downloads,https://geo.btaa.org/?q=11b-39107
-11b-39113,Montgomery County,Ohio,"GeoDataBase Files Downloads for Montgomery County, Ohio",http://www.mcauditor.org/downloads/gis_download_geodb.cfm,https://geo.btaa.org/?q=11b-39113
+11b-39113,Montgomery County,Ohio,"GeoDataBase Files Downloads for Montgomery County, Ohio",https://www.mcauditor.org/downloads/gis_download_geodb.cfm,https://geo.btaa.org/?q=11b-39113
 11b-39117,Morrow County,Ohio,"Enterprise GIS Data Download Page for Morrow County, Ohio",https://www.morrowgis.info/gis-data.html,https://geo.btaa.org/?q=11b-39117
 11b-39119,Muskingum County,Ohio,"GIS Data Downloads for Muskingum County, Ohio",https://downloads.ddti.net/muskingumoh,https://geo.btaa.org/?q=11b-39119
 11b-39123,Ottawa County,Ohio,"Data Downloads FTP (Google Drive) for Ottawa County, Ohio",https://drive.google.com/drive/folders/0B4hTJB05icP8cjNJZnFIVEVJbmM,https://geo.btaa.org/?q=11b-39123
 11b-39129,Pickaway County,Ohio,"GIS and Map Data Downloads for Pickaway County, Ohio",https://www.pickaway.org/GIS_files/GIS.htm,https://geo.btaa.org/?q=11b-39129
 11b-39133,Portage County,Ohio,"GIS Data Downloads for Portage County, Ohio",https://www.co.portage.oh.us/geographic-information-systems/pages/data-downloads,https://geo.btaa.org/?q=11b-39133
 11b-39135,Preble County,Ohio,"GIS Data Downloads for Preble County, Ohio",https://downloads.ddti.net/prebleoh,https://geo.btaa.org/?q=11b-39135
-11b-39137,Putnam County,Ohio,"GIS Downloads for Putnam County, Ohio",http://www.putnamcountygis.com/Downloads/downloads.html,https://geo.btaa.org/?q=11b-39137
+11b-39137,Putnam County,Ohio,"GIS Downloads for Putnam County, Ohio",https://www.putnamcountygis.com/Downloads/downloads.html,https://geo.btaa.org/?q=11b-39137
 11b-39147,Seneca County,Ohio,Seneca County GIS Data Downloads,https://downloads.ddti.net/SenecaOH,https://geo.btaa.org/?q=11b-39147
-11b-39151,Stark County,Ohio,Stark County GIS Data,http://opendata.starkcountyohio.gov,https://geo.btaa.org/?q=11b-39151
+11b-39151,Stark County,Ohio,Stark County GIS Data,https://opendata.starkcountyohio.gov,https://geo.btaa.org/?q=11b-39151
 11b-39153,Summit County,Ohio,Summit County GIS Data,https://data-summitgis.opendata.arcgis.com,https://geo.btaa.org/?q=11b-39153
 11b-39157,Tuscarawas County,Ohio,"GIS Data Store for Tuscarawas County, Ohio",ftp://gis.co.tuscarawas.oh.us/Tus157_GISDataStore,https://geo.btaa.org/?q=11b-39157
-11b-39159,Union County,Ohio,Union County GIS Data,http://www4.co.union.oh.us/unioncountyohio/rest/services,https://geo.btaa.org/?q=11b-39159
-11b-39165,Warren County,Ohio,"GIS Data Downloads for Warren County, Ohio",http://www.co.warren.oh.us/warrengis/Downloads.aspx,https://geo.btaa.org/?q=11b-39165
+11b-39159,Union County,Ohio,Union County GIS Data,https://www4.co.union.oh.us/unioncountyohio/rest/services,https://geo.btaa.org/?q=11b-39159
+11b-39165,Warren County,Ohio,"GIS Data Downloads for Warren County, Ohio",https://www.co.warren.oh.us/warrengis/Downloads.aspx,https://geo.btaa.org/?q=11b-39165
 11b-39167,Washington County,Ohio,"GIS Data Downloads for Washington County, Ohio",https://downloads.ddti.net/washingtonoh,https://geo.btaa.org/?q=11b-39167
-11b-39173,Wood County,Ohio,"ArcGIS REST Services Directory for Wood County, Ohio",http://engineer.co.wood.oh.us/arcgis/rest/services,https://geo.btaa.org/?q=11b-39173
-12b-17031,Cook County,Illinois,Cook Central,https://hub-cookcountyil.opendata.arcgis.com,https://geo.btaa.org/?q=12b-17031
-12b-17031,Cook County,Illinois,Cook County Open Data,https://datacatalog.cookcountyil.gov,https://geo.btaa.org/?q=12b-17031
-12b-17043,DuPage County,Illinois,DuPage County GIS,https://gisdata-dupage.opendata.arcgis.com,https://geo.btaa.org/?q=12b-17043
-12b-17097,Lake County,Illinois,Lake County Illinois Open Data Portal,https://data-lakecountyil.opendata.arcgis.com,https://geo.btaa.org/?q=12b-17097
-12b-17143,Peoria County,Illinois,Peoria County GIS Open Data Portal,https://data-peoriacountygis.opendata.arcgis.com,https://geo.btaa.org/?q=12b-17143
-13b-31153,Sarpy County,Nebraska,Sarpy County GIS Portal,https://gis.sarpy.com/,https://geo.btaa.org/?q=13b-31153
-13b-31055,Douglas County,Nebraska,Omaha/Douglas County GIS Open Data Portal,https://data-dogis.opendata.arcgis.com/,https://geo.btaa.org/?q=13b-31055
-13b-31079,Hall County,Nebraska,Hall County GeoHub,https://data-hcnegis.opendata.arcgis.com/,https://geo.btaa.org/?q=13b-31079
+11b-39173,Wood County,Ohio,"ArcGIS REST Services Directory for Wood County, Ohio",https://engineer.co.wood.oh.us/arcgis/rest/services,https://geo.btaa.org/?q=11b-39173
+08b-42003,Allegheny County,Pennsylvania,Allegheny County GIS Open Data,https://openac-alcogis.opendata.arcgis.com,https://geo.btaa.org/?q=08b-42003
+08b-42027,Centre County,Pennsylvania,Centre County Open Data,https://gisdata-centrecountygov.opendata.arcgis.com,https://geo.btaa.org/?q=08b-42027
+08b-42029,Chester County,Pennsylvania,Chester County GIS Data,https://data1-chesco.opendata.arcgis.com,https://geo.btaa.org/?q=08b-42029
+08b-42039,Crawford County,Pennsylvania,Crawford County Open Data,https://share-open-data-crawfordcountypa.opendata.arcgis.com,https://geo.btaa.org/?q=08b-42039
+08b-42043,Dauphin County,Pennsylvania,Dauphin County GIS Data Portal,https://data-dauphinco.opendata.arcgis.com,https://geo.btaa.org/?q=08b-42043
+08b-42091,Montgomery County,Pennsylvania,Montgomery County Open Data,https://data-montcopa.opendata.arcgis.com,https://geo.btaa.org/?q=08b-42091
+08b-42133,York County,Pennsylvania,"York County, PA GIS Open Data Portal",https://data-yorkcountypa.opendata.arcgis.com,https://geo.btaa.org/?q=08b-42133
+05b-27003,Anoka County,Minnesota,Anoka County GIS Data Downloads,https://www.anokacounty.us/1990/Data-Downloads,https://geo.btaa.org/?q=05b-27003
+05b-27005,Becker County,Minnesota,Becker County GIS Data Downloads,https://www.co.becker.mn.us/online_services/GIS_data.aspx,https://geo.btaa.org/?q=05b-27005
+05b-27007,Beltrami County,Minnesota,Beltrami County Open GIS Data,https://bemidji-beltramicounty.opendata.arcgis.com/,https://geo.btaa.org/?q=05b-27007
+05b-27009,Benton County,Minnesota,Benton County GIS Data Downloads,https://www.co.benton.mn.us/274/GIS-Mapping,https://geo.btaa.org/?q=05b-27009
+05b-27011,Big Stone County,Minnesota,Big Stone County Open Data,https://data-bigstonecounty.opendata.arcgis.com,https://geo.btaa.org/?q=05b-27011
+05b-27017,Carlton County,Minnesota,Carlton County Open Data,https://data-carltoncounty.opendata.arcgis.com,https://geo.btaa.org/?q=05b-27017
+05b-27019,Carver County,Minnesota,Carver County GIS Data,https://data-carver.opendata.arcgis.com,https://geo.btaa.org/?q=05b-27019
+05b-27023,Chippewa County,Minnesota,Chippewa County Open GIS Data,https://data-chippewa.opendata.arcgis.com/,https://geo.btaa.org/?q=05b-27023
+05b-27025,Chisago County,Minnesota,Chisago County GIS Data Downloads,https://chisagocounty.us/427/Geographic-Information-Systems-GIS,https://geo.btaa.org/?q=05b-27025
+05b-27027,Clay County,Minnesota,Clay County Open Data,https://data-claycountymn.opendata.arcgis.com,https://geo.btaa.org/?q=05b-27027
+05b-27029,Clearwater County,Minnesota,Clearwater County GIS Data Downloads,https://www.co.clearwater.mn.us/index.asp?Type=B_LIST&SEC=%7BC3EA334C-2D16-4252-B563-7908C6E147D2%7D,https://geo.btaa.org/?q=05b-27029
+05b-27031,Cook County,Minnesota,Cook County Open GIS Data,https://open-data-portal-cookcountymn.hub.arcgis.com/,https://geo.btaa.org/?q=05b-27031
+05b-27035,Crow Wing County,Minnesota,Crow Wing County Open GIS Data,https://www.crowwing.us/85/Interactive-Maps,https://geo.btaa.org/?q=05b-27035
+05b-27037,Dakota County,Minnesota,Dakota County: Minnesota Geospatial Commons,https://gisdata.mn.gov/organization/us-mn-co-dakota,https://geo.btaa.org/?q=05b-27037
+05b-27041,Douglas County,Minnesota,Douglas County Public Works Open Data,https://data-dcpw.opendata.arcgis.com/datasets/parcels,https://geo.btaa.org/?q=05b-27041
+05b-27051,Grant County,Minnesota,Grant County Open GIS Data,https://share-co-grant-mn-us.opendata.arcgis.com/,https://geo.btaa.org/?q=05b-27043
+05b-27053,Hennepin County,Minnesota,Hennepin County GIS Data,https://gis-hennepin.opendata.arcgis.com,https://geo.btaa.org/?q=05b-27053
+05b-27057,Hubbard County,Minnesota,Hubbard County Open Geospatial Data,https://getdata-hubbardcounty.opendata.arcgis.com,https://geo.btaa.org/?q=05b-27057
+05b-27059,Isanti County,Minnesota,Isanti County GIS Data,https://www.co.isanti.mn.us/175/Geographic-Information-Systems-GIS,https://geo.btaa.org/?q=05b-27059
+05b-27061,Itasca County,Minnesota,Itasca County: Minnesota Geospatial Commons,https://gisdata.mn.gov/organization/us-mn-co-itasca,https://geo.btaa.org/?q=05b-27061
+05b-27075,Lake County,Minnesota,Lake County: Minnesota Geospatial Commons,https://gisdata.mn.gov/organization/us-mn-co-lake,https://geo.btaa.org/?q=05b-27075
+05b-27085,McLeod County,Minnesota,McLeod County GIS Data Downloads,https://www.co.mcleod.mn.us/gis_(mapping_and_surveying)/gis_data.php,https://geo.btaa.org/?q=05b-27085
+05b-27093,Meeker County,Minnesota,Meeker County: Minnesota Geospatial Commons,https://gisdata.mn.gov/organization/us-mn-co-meeker,https://geo.btaa.org/?q=05b-27093
+05b-27099,Mower County,Minnesota,Mower County Open GIS Data,https://geospatial-hub-mowercountymn.hub.arcgis.com/pages/open-data,https://geo.btaa.org/?q=05b-27099
+05b-27111,Otter Tail County,Minnesota,Otter Tail County GIS Data Downloads,https://ottertailcountymn.us/content-page/gis-shapefile-downloads,https://geo.btaa.org/?q=05b-27111
+05b-27119,Polk County,Minnesota,Polk County GIS Open Data,https://polkdata-pcg.opendata.arcgis.com,https://geo.btaa.org/?q=05b-27119
+05b-27121,Pope County,Minnesota,Pope County Open Data,https://data-popecounty.opendata.arcgis.com,https://geo.btaa.org/?q=05b-27121
+05b-27123,Ramsey County,Minnesota,Ramsey County Open Data,https://data-ramseygis.opendata.arcgis.com,https://geo.btaa.org/?q=05b-27123
+05b-27127,Renville County,Minnesota,Renville County Open GIS Data,https://hub-renvilleco.hub.arcgis.com/,https://geo.btaa.org/?q=05b-27127
+05b-27131,Rice County,Minnesota,Rice County: Minnesota Geospatial Commons,https://gisdata.mn.gov/organization/us-mn-co-rice,https://geo.btaa.org/?q=05b-27131
+05b-27137,Saint Louis County,Minnesota,Saint Louis County GIS & Mapping,https://stlouiscountymndata-slcgis.opendata.arcgis.com,https://geo.btaa.org/?q=05b-27137
+05b-27139,Scott County,Minnesota,Scott County Open Data,https://opendata.gis.co.scott.mn.us,https://geo.btaa.org/?q=05b-27139
+05b-27141,Sherburne County,Minnesota,Sherburne County Open Data,https://data-sherburnegis.opendata.arcgis.com,https://geo.btaa.org/?q=05b-27141
+05b-27145,Stearns County,Minnesota,Stearns County GIS Data for Download,https://co.stearns.mn.us/PropertyRoads/GISDataforDownload,https://geo.btaa.org/?q=05b-27145
+05b-27147,Steele County,Minnesota,Steele County: Minnesota Geospatial Commons,https://gisdata.mn.gov/organization/us-mn-co-steele,https://geo.btaa.org/?q=05b-27147
+05b-27155,Traverse County,Minnesota,Traverse County Open GIS Data,https://data-traversecountymn.opendata.arcgis.com/,https://geo.btaa.org/?q=05b-27155
+05b-27161,Waseca County,Minnesota,Waseca County: Minnesota Geospatial Commons,https://gisdata.mn.gov/organization/us-mn-co-waseca,https://geo.btaa.org/?q=05b-27161
+05b-27163,Washington County,Minnesota,Washington County Open Data,https://data-wcmn.opendata.arcgis.com,https://geo.btaa.org/?q=05b-27163
+05b-27167,Wilkin County,Minnesota,"Wilkin County, Minnesota Open Data",https://share-wilkinco.opendata.arcgis.com,https://geo.btaa.org/?q=05b-27167
+10b-55003,Ashland County,Wisconsin,Ashland County GIS Download,https://data-ashlandcountywi.opendata.arcgis.com/,https://geo.btaa.org/?q=10b-55003
+10b-55007,Bayfield County,Wisconsin,Bayfield County GIS Download,https://www.bayfieldcounty.org/892/GIS-and-Parcel-Data,https://geo.btaa.org/?q=10b-55007
+10b-55009,Brown County,Wisconsin,Brown County GIS Download,https://www.co.brown.wi.us/departments/?department=85713eda4cdc,https://geo.btaa.org/?q=10b-55009
+10b-55011,Buffalo County,Wisconsin,Buffalo County GIS Download,https://www.buffalocounty.com/377/Geospatial-Data-Access,https://geo.btaa.org/?q=10b-55011
+10b-55015,Calumet County,Wisconsin,Calumet County GIS Download,https://www.calumetmaps.com/data.html,https://geo.btaa.org/?q=10b-55015
+10b-55021,Columbia County,Wisconsin,Columbia County GIS Download,https://www.co.columbia.wi.us/ColumbiaCounty/LandInformation/DownloadableGISData/tabid/3491/Default.aspx,https://geo.btaa.org/?q=10b-55021
+10b-55025,Dane County,Wisconsin,Dane County GIS Download,https://gis-countyofdane.opendata.arcgis.com/,https://geo.btaa.org/?q=10b-55025
+10b-55031,Douglas County,Wisconsin,Douglas County GIS Download,https://www.ci.superior.wi.us/474/Geospatial-Data-GIS,https://geo.btaa.org/?q=10b-55031
+10b-55039,Fond du Lac County,Wisconsin,Fond du Lac County GIS Download,https://www.fdlco.wi.gov/departments/departments-f-m/land-information/data-download,https://geo.btaa.org/?q=10b-55039
+10b-55043,Grant County,Wisconsin,Grant County GIS Download,https://www.grantcountylandrecords.com/publicinfo/,https://geo.btaa.org/?q=10b-55043
+10b-55045,Green County,Wisconsin,Green County GIS Download,https://www.co.green.wi.gov/localgov_departments_details.asp?deptid=115&locid=148,https://geo.btaa.org/?q=10b-55045
+10b-55065,Lafayette County,Wisconsin,Lafayette County GIS Download,https://mapping.lafayettecountywi.org/FreeDownloads/,https://geo.btaa.org/?q=10b-55065
+10b-55069,Lincoln County,Wisconsin,Lincoln County GIS Download,https://maps.co.lincoln.wi.us/webapps/gisportal/data.html,https://geo.btaa.org/?q=10b-55069
+10b-55073,Marathon County,Wisconsin,Marathon County GIS Download,https://www.co.marathon.wi.us/Departments/ConservationPlanningZoning/GEOServices/GeographicInformationSystem%28GIS%29/GISData.aspx,https://geo.btaa.org/?q=10b-55073
+10b-55079,Milwaukee County,Wisconsin,Milwaukee County GIS Download,https://gis-mclio.opendata.arcgis.com/,https://geo.btaa.org/?q=10b-55079
+10b-55085,Oneida County,Wisconsin,Oneida County GIS Download,https://oneida.ncwrpc.info/,https://geo.btaa.org/?q=10b-55085
+10b-55087,Outagamie County,Wisconsin,Outagamie County GIS Download,https://data-ocgis.opendata.arcgis.com/,https://geo.btaa.org/?q=10b-55087
+10b-55095,Polk County,Wisconsin,Polk County GIS Download,https://www.co.polk.wi.us/index.asp?SEC=A94D4B49-F047-496F-A7B9-A259974E7E6F&Type=B_BASIC,https://geo.btaa.org/?q=10b-55095
+10b-55097,Portage County,Wisconsin,Portage County GIS Download,https://www.co.portage.wi.us/department/planning-zoning/land-information-gis/maps-and-gis-data,https://geo.btaa.org/?q=10b-55097
+10b-55101,Racine County,Wisconsin,Racine County GIS Download,https://data.racinecounty.opendata.arcgis.com/,https://geo.btaa.org/?q=10b-55101
+10b-55109,St. Croix County,Wisconsin,St. Croix County GIS Download,https://gis-scccdd.opendata.arcgis.com/,https://geo.btaa.org/?q=10b-55109
+10b-55111,Sauk County,Wisconsin,Sauk County GIS Download,https://data.saukgis.opendata.arcgis.com/,https://geo.btaa.org/?q=10b-55111
+10b-55117,Sheboygan County,Wisconsin,Sheboygan County GIS Download,https://data-shebco.opendata.arcgis.com/,https://geo.btaa.org/?q=10b-55117
+10b-55121,Trempealeau County,Wisconsin,Trempealeau County GIS Download,https://www.tremplocounty.com/tchome/landrecords/data.aspx,https://geo.btaa.org/?q=10b-55121
+10b-55125,Vilas County,Wisconsin,Vilas County GIS Download,https://data-vilas.opendata.arcgis.com/,https://geo.btaa.org/?q=10b-55125
+10b-55127,Walworth County,Wisconsin,Walworth County GIS Download,https://open-walco.opendata.arcgis.com/,https://geo.btaa.org/?q=10b-55127
+10b-55129,Washburn County,Wisconsin,Washburn County GIS Download,https://www.co.washburn.wi.us/departments/land-info-surveyor-mapping/gis-data,https://geo.btaa.org/?q=10b-55129
+10b-55131,Washington County,Wisconsin,Washington County GIS Download,https://washingtoncowi.maps.arcgis.com/apps/MapSeries/index.html?appid=0db0dd8e8e9f4f51931a58ec26a5037a,https://geo.btaa.org/?q=10b-55131
+10b-55133,Waukesha County,Wisconsin,Waukesha County GIS Download,https://data-waukeshacounty.opendata.arcgis.com/,https://geo.btaa.org/?q=10b-55133
+10b-55135,Waupaca County,Wisconsin,Waupaca County GIS Download,https://data.waupacacounty.opendata.arcgis.com/,https://geo.btaa.org/?q=10b-55135
+10b-55137,Waushara County,Wisconsin,Waushara County GIS Download,https://waushara.maps.arcgis.com/home/index.html,https://geo.btaa.org/?q=10b-55137
+10b-55141,Wood County,Wisconsin,Wood County GIS Download,https://opendata.woodcogis.com/,https://geo.btaa.org/?q=10b-55141
