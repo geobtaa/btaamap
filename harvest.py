@@ -229,8 +229,9 @@ df_group['totalRecords'] = df_group['totalRecords'].apply(
 ####### Classify the geoportal by total number #######
 
 # You may want to adjust the classification method NaturalBreaks and class number k.
-n5 = mapclassify.NaturalBreaks(df_group.totalRecords, k=5)
-countyInterval = list(n5.bins)
+df_excludeOne = df_group[df_group['totalRecords'] != 1]
+n4 = mapclassify.NaturalBreaks(df_excludeOne.totalRecords, k=4)
+countyInterval = [1.0] + [i for i in list(n4.bins)]
 
 
 ####### Assign different color to each geoportal based on total records class #######
