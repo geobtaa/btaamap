@@ -479,7 +479,7 @@ $(document).ready(function () {
           gradesCounty = [1].concat(intervalCounties),
           gradesCity = [1].concat(intervalCities),
           label = [
-            '<h6 style="font-family: Josefin Sans, sans-serif;">Number of Records in the BTAA Geoportal</h6><p class="mb-1">County-hosted Data Portal</p>',
+            '<h6 style="font-family: Josefin Sans, sans-serif;">Number of Records</h6><h6 style="font-family: Josefin Sans, sans-serif;">in the BTAA Geoportal</h6><p class="mb-1">County-hosted Data Portal</p>',
           ];
 
         // loop through county intervals and generate a label with a colored square for each interval
