@@ -395,6 +395,7 @@ $(document).ready(function () {
 
     if ($("#btnStateLayer").data("clicked")) {
       clearLayers();
+      $("#btnFilter").prop("disabled", true);
       $("#btnCounty").prop("disabled", true);
       $("#btnCity").prop("disabled", true);
       $("#btnStateLayer").data("clicked", false);
@@ -402,58 +403,87 @@ $(document).ready(function () {
       mymap.fitBounds(lyrStates.getBounds());
     } else if ($("#btnCountyLayer").data("clicked")) {
       clearLayers();
+      $("#btnFilter").prop("disabled", true);
       $("#btnCity").prop("disabled", true);
       $("#btnCountyLayer").data("clicked", false);
       lyrCounties.addTo(mymap);
       mymap.fitBounds(lyrCounties.getBounds());
+
+      $("#dropdownState").on("click", "button", function () {
+        $("#btnState").prop("disabled", true);
+        countyFilter();
+      });
     } else if ($("#btnCityLayer").data("clicked")) {
       clearLayers();
+      $("#btnFilter").prop("disabled", true);
       $("#btnCounty").prop("disabled", true);
       $("#btnCityLayer").data("clicked", false);
       lyrCities.addTo(mymap);
       mymap.fitBounds(lyrCities.getBounds());
+
+      $("#dropdownState").on("click", "button", function () {
+        $("#btnState").prop("disabled", true);
+        cityFilter();
+      });
     } else {
       clearLayers();
+      $("#btnFilter").prop("disabled", true);
       $("#btnAllLayer").data("clicked", false);
       lyrStates.addTo(mymap);
       lyrCounties.addTo(mymap);
       lyrCities.addTo(mymap);
       mymap.fitBounds(lyrStates.getBounds().pad(1));
+
+      if ($("#btnCounty").on("clicked")) {
+        $("#btnCountyLayer").data("clicked", false);
+        countyFilter();
+      } else if ($("#btnCity").on("clicked")) {
+        $("#btnCityLayer").data("clicked", false);
+        cityFilter();
+      }
     }
   });
 
   /********** County Filter **********/
-  $("#dropdownCounty").on("click", "button", function () {
-    clearLayers();
-    $("#btnCity").prop("disabled", true);
-    var val = $(this).val();
-    var target = filterLayer(lyrFilterCounties, "County", val);
+  function countyFilter() {
+    $("#dropdownCounty").on("click", "button", function () {
+      clearLayers();
+      $("#btnCounty").prop("disabled", false);
+      $("#btnCity").prop("disabled", true);
+      var val = $(this).val();
+      var target = filterLayer(lyrFilterCounties, "County", val);
 
-    var lyrCounty = L.geoJSON(target, {
-      style: styleActiveCounties,
-      onEachFeature: processActiveCounties,
-    }).addTo(mymap);
+      var lyrCounty = L.geoJSON(target, {
+        style: styleActiveCounties,
+        onEachFeature: processActiveCounties,
+      }).addTo(mymap);
 
-    mymap.fitBounds(lyrCounty.getBounds());
-  });
+      mymap.fitBounds(lyrCounty.getBounds());
+    });
+  }
 
   /********** City Filter **********/
-  $("#dropdownCity").on("click", "button", function () {
-    clearLayers();
-    $("#btnCounty").prop("disabled", true);
-    var val = $(this).val();
-    var target = filterLayer(lyrFilterCities, "City", val);
+  function cityFilter() {
+    $("#dropdownCity").on("click", "button", function () {
+      clearLayers();
+      $("#btnCounty").prop("disabled", true);
+      $("#btnCity").prop("disabled", false);
+      var val = $(this).val();
+      var target = filterLayer(lyrFilterCities, "City", val);
 
-    var lyrCity = L.geoJSON(target, {
-      pointToLayer: returnCityPoint,
-      onEachFeature: processActiveCities,
-    }).addTo(mymap);
+      var lyrCity = L.geoJSON(target, {
+        pointToLayer: returnCityPoint,
+        onEachFeature: processActiveCities,
+      }).addTo(mymap);
 
-    mymap.fitBounds(lyrCity.getBounds());
-  });
+      mymap.fitBounds(lyrCity.getBounds());
+    });
+  }
 
   /********** Clear Button **********/
   $("#btnClear").click(function () {
+    $("#btnFilter").prop("disabled", false);
+    $("#btnState").prop("disabled", false);
     $("#btnCounty").prop("disabled", true);
     $("#btnCity").prop("disabled", true);
     clearMap();
