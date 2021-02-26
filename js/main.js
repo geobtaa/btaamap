@@ -393,19 +393,32 @@ $(document).ready(function () {
     dropdownCities += "</div>";
     $("#dropdownCity").append(dropdownCities);
 
+    $("#btnFilter").prop("disabled", true);
+    $("#btnState").prop("disabled", true);
+    lyrStates.addTo(mymap);
+    lyrCounties.addTo(mymap);
+    lyrCities.addTo(mymap);
+    mymap.fitBounds(lyrStates.getBounds().pad(1));
+
+    if ($("#btnCounty").on("clicked")) {
+      countyFilter();
+    }
+
+    if ($("#btnCity").on("clicked")) {
+      cityFilter();
+    }
+
     if ($("#btnStateLayer").data("clicked")) {
       clearLayers();
       $("#btnFilter").prop("disabled", true);
       $("#btnCounty").prop("disabled", true);
       $("#btnCity").prop("disabled", true);
-      $("#btnStateLayer").data("clicked", false);
       lyrStates.addTo(mymap);
       mymap.fitBounds(lyrStates.getBounds());
     } else if ($("#btnCountyLayer").data("clicked")) {
       clearLayers();
       $("#btnFilter").prop("disabled", true);
       $("#btnCity").prop("disabled", true);
-      $("#btnCountyLayer").data("clicked", false);
       lyrCounties.addTo(mymap);
       mymap.fitBounds(lyrCounties.getBounds());
 
@@ -417,7 +430,6 @@ $(document).ready(function () {
       clearLayers();
       $("#btnFilter").prop("disabled", true);
       $("#btnCounty").prop("disabled", true);
-      $("#btnCityLayer").data("clicked", false);
       lyrCities.addTo(mymap);
       mymap.fitBounds(lyrCities.getBounds());
 
@@ -425,22 +437,6 @@ $(document).ready(function () {
         $("#btnState").prop("disabled", true);
         cityFilter();
       });
-    } else {
-      clearLayers();
-      $("#btnFilter").prop("disabled", true);
-      $("#btnAllLayer").data("clicked", false);
-      lyrStates.addTo(mymap);
-      lyrCounties.addTo(mymap);
-      lyrCities.addTo(mymap);
-      mymap.fitBounds(lyrStates.getBounds().pad(1));
-
-      if ($("#btnCounty").on("clicked")) {
-        // $("#btnCountyLayer").data("clicked", false);
-        countyFilter();
-      } else if ($("#btnCity").on("clicked")) {
-        // $("#btnCityLayer").data("clicked", false);
-        cityFilter();
-      }
     }
   });
 
