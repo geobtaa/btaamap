@@ -318,7 +318,7 @@ $(document).ready(function () {
       lyrGroup.forEach(function (lyr) {
         lyr.addTo(mymap);
       });
-
+      $("#btnFilter").prop("disabled", true);
       mymap.setView([43, -84], 5);
     });
   }
@@ -435,10 +435,10 @@ $(document).ready(function () {
       mymap.fitBounds(lyrStates.getBounds().pad(1));
 
       if ($("#btnCounty").on("clicked")) {
-        $("#btnCountyLayer").data("clicked", false);
+        // $("#btnCountyLayer").data("clicked", false);
         countyFilter();
       } else if ($("#btnCity").on("clicked")) {
-        $("#btnCityLayer").data("clicked", false);
+        // $("#btnCityLayer").data("clicked", false);
         cityFilter();
       }
     }
