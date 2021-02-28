@@ -469,7 +469,7 @@ $(document).ready(function () {
   /********** Clear Button **********/
   $("#btnClear").click(function () {
     $("#btnFilter").prop("disabled", false);
-    $("#btnState").prop("disabled", false);
+    $("#btnState").prop("disabled", true);
     $("#btnCounty").prop("disabled", true);
     $("#btnCity").prop("disabled", true);
     clearMap();
