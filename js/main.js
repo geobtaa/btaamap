@@ -316,6 +316,8 @@ $(document).ready(function () {
       $(this).data("clicked", true);
       $(this).val("selected");
       $(this).siblings().removeAttr("value");
+      $("#btnCounty").prop("disabled", true);
+      $("#btnCity").prop("disabled", true);
       clearLayers();
       lyrGroup.forEach(function (lyr) {
         lyr.addTo(mymap);
