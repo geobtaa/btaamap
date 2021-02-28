@@ -76,33 +76,17 @@
                   Layer
                 </button>
                 <div class="dropdown-menu">
-                  <button
-                    class="dropdown-item"
-                    id="btnAllLayer"
-                    value="allLayer"
-                  >
+                  <button class="dropdown-item" id="btnAllLayer">
                     All Data Portals
                   </button>
                   <div class="dropdown-divider"></div>
-                  <button
-                    class="dropdown-item"
-                    id="btnStateLayer"
-                    value="stateLayer"
-                  >
+                  <button class="dropdown-item" id="btnStateLayer">
                     State-hosted Data Portals
                   </button>
-                  <button
-                    class="dropdown-item"
-                    id="btnCountyLayer"
-                    value="countyLayer"
-                  >
+                  <button class="dropdown-item" id="btnCountyLayer">
                     County-hosted Data Portals
                   </button>
-                  <button
-                    class="dropdown-item"
-                    id="btnCityLayer"
-                    value="cityLayer"
-                  >
+                  <button class="dropdown-item" id="btnCityLayer">
                     City-hosted Data Portals
                   </button>
                 </div>
@@ -116,6 +100,7 @@
                   type="button"
                   data-toggle="dropdown"
                   id="btnState"
+                  disabled
                 >
                   State
                 </button>
@@ -177,7 +162,7 @@
                 <div class="dropdown-menu" id="dropdownCity"></div>
               </div>
             </div>
-            <!-- City Filter -->
+            <!-- Clear Filter -->
             <div class="nav-item">
               <button class="btn btn-block" id="btnClear" type="button">
                 Clear
