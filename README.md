@@ -9,6 +9,26 @@ The primary purpose of this interactive map is to show what states, counties and
 2. Run Python Scripts to produce `activeStates.topo.json`, `activeCounties.topo.json`, `activeCities.json`and `legend.json`
 3. Push new changes to GitHub
 
+
+
+## Environment Setup
+
+We We will be using **Anaconda 3** to edit and run scripts. Information on Anaconda installation can be found [here](https://docs.anaconda.com/anaconda/install/).  All packages available for 64-bit Windows with Python 3.7 in the Anaconda can be found [here](https://docs.anaconda.com/anaconda/packages/py3.7_win-64/). Please note that all scripts are running on Python 3 (**3.7.6**).
+
+Here are all dependencies needed to be installed properly: 
+
+- [geopandas](https://geopandas.org/getting_started/install.html) [Version: 0.7.0]
+- [shapely](https://pypi.org/project/Shapely/) [Version: 1.7.0]
+- [requests](https://requests.readthedocs.io/en/master/user/install/#install) [Version: 2.22.0]
+- [numpy](https://numpy.org/install/) [Version: 1.18.1]
+
+- [folium](https://python-visualization.github.io/folium/) [Version: 0.10.1]
+- [mapclassify](https://github.com/pysal/mapclassify) [Version: 2.4.2]
+- [seaborn](https://seaborn.pydata.org) [Version: 0.10.0]
+- [topojson](https://github.com/mattijn/topojson) [Version: 1.0]
+
+
+
 ## What is TopoJSON?
 
 **<a href='https://github.com/topojson/topojson'>TopoJSON</a>** is an extension of GeoJSON storing geometry information more efficiently. Here are some main differences:
