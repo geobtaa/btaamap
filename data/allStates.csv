@@ -1,20 +1,24 @@
 stateCode,State,Title,sourceURL,btaaURL
-02a-01,Illinois,Illinois Geospatial Data Clearinghouse,https://clearinghouse.isgs.illinois.edu/data,https://geo.btaa.org/?q=02a-01
-02a-03,Illinois,State of Illinois Data Portal,https://data.illinois.gov,https://geo.btaa.org/?q=02a-03
 01d-02,Indiana,Indiana Spatial Data Portal,http://gis.iu.edu,https://geo.btaa.org/?q=01d-02
-09a-01,Indiana,IndianaMAP,http://maps.indiana.edu/layerGallery.html,https://geo.btaa.org/?q=09a-01
+09a-02,Indiana,Indiana Statewide LiDAR: 2011-2013,https://doi.org/10.5069/G9959FHZ,https://geo.btaa.org/?q=09a-02
+09a-03,Indiana,Indiana Statewide LiDAR: 2016-2019,https://lidar.jinha.org/,https://geo.btaa.org/?q=09a-03
+03a-01-001,Iowa,Interactive map of coal mines in Iowa,https://programs.iowadnr.gov/maps/coalmines/,https://geo.btaa.org/?q=03a-01-001
 03a-02,Iowa,IowaDOT Open Data,https://public-iowadot.opendata.arcgis.com,https://geo.btaa.org/?q=03a-02
-03a-03,Iowa,Iowa Geodata,https://geodata.iowa.gov,https://geo.btaa.org/?q=03a-03
-03a-04,Iowa,State of Iowa Open Spatial Data,https://open-iowa.opendata.arcgis.com,https://geo.btaa.org/?q=03a-04
 04a-01,Maryland,Maryland iMap,http://data.imap.maryland.gov,https://geo.btaa.org/?q=04a-01
-06a-01,Michigan,State of Michigan Open Data Portal,http://gis-michigan.opendata.arcgis.com,https://geo.btaa.org/?q=06a-01
-05a-01,Minnesota,Minnesota Geospatial Commons,https://gisdata.mn.gov,https://geo.btaa.org/?q=05a-01
+06a-02,Michigan,Michigan DNR Open Data Portal,https://gis-midnr.opendata.arcgis.com,https://geo.btaa.org/?q=06a-02
+05a-02,Minnesota,Minnesota Legislative Coordinating Commission - Geospatial Information (LCC-GIS),https://www.gis.leg.mn/html/download.html,https://geo.btaa.org/?q=05a-02
+13a-02,Nebraska,Natural Resources Data Bank,https://dnr.nebraska.gov/data,https://geo.btaa.org/?q=13a-02
+13a-03,Nebraska,Nebraska Department of Transportation Map Gallery,https://dot.nebraska.gov/travel/map-library/,https://geo.btaa.org/?q=13a-03
+13a-04,Nebraska,Nebraska Game & Parks Map and Data Portal,https://data-outdoornebraska.opendata.arcgis.com/,https://geo.btaa.org/?q=13a-04
 13a-01,Nebraska,NebraskaMap,https://www.nebraskamap.gov,https://geo.btaa.org/?q=13a-01
-11a-01,Ohio,GeOhio,http://ogrip-geohio.opendata.arcgis.com,https://geo.btaa.org/?q=11a-01
 11a-02,Ohio,Ohio Public Utilities Commission Maps and GIS Data Directory,https://www.puco.ohio.gov/utility-maps/maps-and-gis-data-directory/?dirPath=GIS_Data%2F,https://geo.btaa.org/?q=11a-02
 11a-03,Ohio,Ohio Spatial Data Infrastructure Downloads,https://ogrip.oit.ohio.gov/ServicesData/GEOhioSpatialInformationPortal/OhioSpatialDataInfrastructure-Downloads.aspx,https://geo.btaa.org/?q=11a-03
+www_iowadatacenter_org,Iowa,State Data Center of Iowa,https://www.iowadatacenter.org/,https://geo.btaa.org/?q=www_iowadatacenter_org
+02a-03,Illinois,State of Illinois Data Portal,https://data.illinois.gov,https://geo.btaa.org/?q=02a-03
+06a-01,Michigan,State of Michigan Open Data Portal,http://gis-michigan.opendata.arcgis.com,https://geo.btaa.org/?q=06a-01
+03a-03,Iowa,Iowa Geodata,https://geodata.iowa.gov,https://geo.btaa.org/?q=03a-03
+08a-02,Pennsylvania,Pennsylvania Department of Conservation and Natural Resources Open Data Portal,https://newdata-dcnr.opendata.arcgis.com,https://geo.btaa.org/?q=08a-02
+05a-01,Minnesota,Minnesota Geospatial Commons,https://gisdata.mn.gov,https://geo.btaa.org/?q=05a-01
+11a-01,Ohio,GEOhio Spatial Data Discovery Portal,http://ogrip-geohio.opendata.arcgis.com,https://geo.btaa.org/?q=11a-01
 08a-01,Pennsylvania,PASDA: The Pennsylvania Geospatial Data Clearinghouse,http://www.pasda.psu.edu,https://geo.btaa.org/?q=08a-01
-10a-01,Wisconsin,GeoData@Wisconsin,https://geodata.wisc.edu,https://geo.btaa.org/?q=10a-01
-13a-02,Nebraska,Natural Resources Data Bank,https://dnr.nebraska.gov/data,https://geo.btaa.org/?q=13a-02
-13a-03,Nebraska,Department of Transportation,https://dot.nebraska.gov/travel/map-library/,https://geo.btaa.org/?q=13a-03
-13a-04,Nebraska,Nebraska Game & Parks Map and Data Portal,https://data-outdoornebraska.opendata.arcgis.com/,https://geo.btaa.org/?q=13a-04
+sos_iowa_gov_elections,Iowa,Election Data: Iowa,https://sos.iowa.gov/elections/otherinfo.html,https://geo.btaa.org/?q=sos_iowa_gov_elections
