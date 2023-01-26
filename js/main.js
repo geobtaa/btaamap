@@ -32,13 +32,13 @@ var aboutContainer;
 $(document).ready(function () {
   /********** File Path **********/
   stateJSON =
-    "https://btaa-geospatial-data-project.github.io/btaamap/json/activeStates.topo.json";
+    "https://geobtaa.github.io/btaamap/json/activeStates.topo.json";
   countyJSON =
-    "https://btaa-geospatial-data-project.github.io/btaamap/json/activeCounties.topo.json";
+    "https://geobtaa.github.io/btaamap/json/activeCounties.topo.json";
   cityJSON =
-    "https://btaa-geospatial-data-project.github.io/btaamap/json/activeCities.json";
+    "https://geobtaa.github.io/btaamap/json/activeCities.json";
   legendJSON =
-    "https://btaa-geospatial-data-project.github.io/btaamap/json/legend.json";
+    "https://geobtaa.github.io/btaamap/json/legend.json";
 
   /********** Map Initialization **********/
   mymap = L.map("mapdiv").setView([43, -84], 5);
