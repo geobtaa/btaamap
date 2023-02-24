@@ -1,0 +1,52 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis version="3.24.1-Tisler">
+  <identifier>997a6f44-a44f-4397-af67-c224833546d3</identifier>
+  <parentidentifier>https://www2.census.gov/geo/tiger/GENZ2018/shp/cb_2018_us_cd116_20m.zip</parentidentifier>
+  <language>en</language>
+  <type>dataset</type>
+  <title>Counties of the Big Ten Academic Alliance</title>
+  <abstract>This dataset contains the counties boundaries of the 11 states in the Big Ten Academic Alliance (https://geo.btaa.org). It was derived from the cartographic boundary files available on https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html.</abstract>
+  <keywords vocabulary="gmd:topicCategory">
+    <keyword>Boundaries</keyword>
+  </keywords>
+  <contact>
+    <name>Big Ten Academic Alliance Geospatial Information Network</name>
+    <organization>Big Ten Academic Alliance Geospatial Information Network</organization>
+    <position></position>
+    <voice></voice>
+    <fax></fax>
+    <email>geoportal@btaa.org</email>
+    <role></role>
+  </contact>
+  <links>
+    <link name="Access" type="information" url="https://geo.btaa.org/catalog/997a6f44-a44f-4397-af67-c224833546d3" size="" format="" description="" mimeType=""/>
+  </links>
+  <history>Used nationwide county dataset and extracted just the BTAA states</history>
+  <fees></fees>
+  <rights></rights>
+  <rights></rights>
+  <license>Open Data Commons Public Domain Dedication and Licence</license>
+  <encoding></encoding>
+  <crs>
+    <spatialrefsys nativeFormat="Wkt">
+      <wkt>GEOGCRS["WGS 84",ENSEMBLE["World Geodetic System 1984 ensemble",MEMBER["World Geodetic System 1984 (Transit)"],MEMBER["World Geodetic System 1984 (G730)"],MEMBER["World Geodetic System 1984 (G873)"],MEMBER["World Geodetic System 1984 (G1150)"],MEMBER["World Geodetic System 1984 (G1674)"],MEMBER["World Geodetic System 1984 (G1762)"],ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[2.0]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],CS[ellipsoidal,2],AXIS["geodetic latitude (Lat)",north,ORDER[1],ANGLEUNIT["degree",0.0174532925199433]],AXIS["geodetic longitude (Lon)",east,ORDER[2],ANGLEUNIT["degree",0.0174532925199433]],USAGE[SCOPE["Horizontal component of 3D system."],AREA["World."],BBOX[-90,-180,90,180]],ID["EPSG",4326]]</wkt>
+      <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+      <srsid>3452</srsid>
+      <srid>4326</srid>
+      <authid>EPSG:4326</authid>
+      <description>WGS 84</description>
+      <projectionacronym>longlat</projectionacronym>
+      <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+      <geographicflag>true</geographicflag>
+    </spatialrefsys>
+  </crs>
+  <extent>
+    <spatial miny="36.98205699999999752" crs="EPSG:4326" maxz="0" minz="0" maxy="49.38435799999999887" maxx="-73.89397900000000163" dimensions="2" minx="-104.05324899999999388"/>
+    <temporal>
+      <period>
+        <start></start>
+        <end></end>
+      </period>
+    </temporal>
+  </extent>
+</qgis>
