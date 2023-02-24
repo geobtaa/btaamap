@@ -1,0 +1,13 @@
+CASE 
+      WHEN "STATEFP" = 17 THEN 'Illinois'
+      WHEN "STATEFP" = 18 THEN 'Indiana'
+      WHEN "STATEFP" = 19 THEN 'Iowa'
+      WHEN "STATEFP" = 24 THEN 'Maryland'
+      WHEN "STATEFP" = 26 THEN 'Michigan'
+      WHEN "STATEFP" = 27 THEN 'Minnesota'
+      WHEN "STATEFP" = 31 THEN 'Nebraska'
+      WHEN "STATEFP" = 34 THEN 'New Jersey'
+      WHEN "STATEFP" = 39 THEN 'Ohio'
+      WHEN "STATEFP" = 42 THEN 'Pennsylvania'
+      WHEN "STATEFP" = 55 THEN 'Wisconsin'
+END
