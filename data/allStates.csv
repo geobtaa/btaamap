@@ -23,5 +23,3 @@ stateCode,State,Title,sourceURL,btaaURL
 02a-03,Illinois,State of Illinois Data Portal,https://data.illinois.gov,https://geo.btaa.org/?q=02a-03
 06a-01,Michigan,State of Michigan Open Data Portal,http://gis-michigan.opendata.arcgis.com,https://geo.btaa.org/?q=06a-01
 05a-01,Minnesota,Minnesota Geospatial Commons,https://gisdata.mn.gov,https://geo.btaa.org/?q=05a-01
-14a-01,New Jersey,New Jersey Geographic Information Network (NJGIN) Open Data Portal,https://njogis-newjersey.opendata.arcgis.com,https://geo.btaa.org/?q=14a-01
-14a-02,New Jersey,New Jersey Department of Environmental Protection's (NJDEP) Bureau of GIS,https://gisdata-njdep.opendata.arcgis.com,https://geo.btaa.org/?q=14a-02
